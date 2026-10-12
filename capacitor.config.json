@@ -1,0 +1,7 @@
+{
+  "appId": "com.antigravity.game",
+  "appName": "Antigravity",
+  "webDir": "www",
+  "backgroundColor": "#020308",
+  "android": { "allowMixedContent": false }
+}
